@@ -1,0 +1,71 @@
+# Fichiers à ignorer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+data/processed/
+data/interim/
+data/samples/
+.env
+*.sqlite3
+.DS_Store
+
+# Fichiers et répertoires JupyterLab
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de données temporaires
+*.csv
+*.xls
+*.xlsx
+*.dat
+*.log
+
+# Environnements virtuels Python
+env/
+venv/
+*/env/
+*/venv/
+.env
+.venv
+
+# Fichiers temporaires de l'OS
+.DS_Store
+Thumbs.db
+*.swp
+~$*
+*.tmp
+
+# Fichiers générés par des outils
+build/
+dist/
+out/
+*.o
+*.so
+*.dll
+*.egg-info/
+__pypackages__/
+
+# Fichiers spécifiques à l'éditeur
+.idea/
+.vscode/
+*.suo
+*.ntvsolution*
+*.njsproj
+*.sln
+*.sw?
+
+# Fichiers générés par des extensions JupyterLab
+*.js.map
+
+# Fichiers de configuration sensibles
+config.ini
+secrets.json
+*.key
+*.pem
+
+# Dossiers de téléchargement
+Downloads/
