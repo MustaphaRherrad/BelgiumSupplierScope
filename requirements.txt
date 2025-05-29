@@ -7,3 +7,5 @@ scikit-learn
 jupyter
 pyyaml
 xlrd
+geopandas
+contextily
