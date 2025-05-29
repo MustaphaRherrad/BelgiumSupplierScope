@@ -7,7 +7,10 @@
 
 ## Principaux Résultats
 ![Courbe Pareto](figures/competition/pareto_curve.png)
-
+---
+![top_suppliers](figures/competition/top_suppliers.png)
+---
+![analyse_par_tranche](figures/competition/analyse_par_tranche.png)
 
 ---
 ## Nouvelle Analyse de la Répartition des 5 Premiers Fournisseurs par Tranche (Parts du Marché Total)
