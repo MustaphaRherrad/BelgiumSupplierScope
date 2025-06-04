@@ -1,6 +1,6 @@
-# SupplierScope
+# BelgiumSupplierScope
 
-Projet d'analyse des achats et de sélection de fournisseurs.
+Projet d'analyse des marchés publics en Belgique.
 
 ## Structure du projet
 - data/: données brutes, transformées, externes, intermédiaires
@@ -17,6 +17,7 @@ Projet d'analyse des achats et de sélection de fournisseurs.
 ### Installation de l'environnement
 
 #### Avec conda
+``````
 conda create -n supplierscope python=3.11
 conda activate supplierscope
 pip install -r requirements.txt
@@ -24,3 +25,12 @@ pip install -r requirements.txt
 
 ## Usage
 Développer et exécuter les notebooks dans le dossier notebooks/
+
+## Données
+![Ensemble de données sur les marchés publics mondiaux (GPPD)](https://data.mendeley.com/datasets/fwzpywbhgw/2)
+
+## Rapports
+* ![Analyse_par_CPV](docs/analyse_par_cpv.md)
+* ![analyse de la Concurrence](docs/competition_analysis.md)
+
+
