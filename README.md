@@ -27,10 +27,11 @@ pip install -r requirements.txt
 Développer et exécuter les notebooks dans le dossier notebooks/
 
 ## Données
-![Ensemble de données sur les marchés publics mondiaux (GPPD)](https://data.mendeley.com/datasets/fwzpywbhgw/2)
+[Ensemble de données sur les marchés publics mondiaux (GPPD)](https://data.mendeley.com/datasets/fwzpywbhgw/2)
 
 ## Rapports
-* ![Analyse_par_CPV](docs/analyse_par_cpv.md)
-* ![analyse de la Concurrence](docs/competition_analysis.md)
+* ![Analyse_par_CPV](reports/cpv_analysis_report.md)
+* ![Analyse de la Concurrence](reports/competition_report.md)
+* ![Analyse de la Dépense](reports/expense_analysis_report.md)
 
 
